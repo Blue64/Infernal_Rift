@@ -1,0 +1,54 @@
+// Template:
+// var/val:
+# val XXX00 = <:0>;
+# val XXX01 = <:1>;
+# val XXX02 = <:2>;
+# val XXX03 = <:3>;
+# val XXX04 = <:4>;
+# val XXX05 = <:5>;
+# val XXX06 = <:6>;
+# val XXX07 = <:7>;
+# val XXX08 = <:8>;
+# val XXX09 = <:9>;
+# val XXX10 = <:10>;
+# val XXX11 = <:11>;
+# val XXX12 = <:12>;
+# val XXX13 = <:13>;
+# val XXX14 = <:14>;
+# val XXX15 = <:15>;
+// 
+// Remove:
+# <ore:***White>.remove(XXX15);
+# <ore:***Orange>.remove(XXX14);
+# <ore:***Magenta>.remove(XXX13);
+# <ore:***LightBlue>.remove(XXX12);
+# <ore:***Yellow>.remove(XXX11);
+# <ore:***Lime>.remove(XXX10);
+# <ore:***Pink>.remove(XXX09);
+# <ore:***Gray>.remove(XXX08);
+# <ore:***LightGray>.remove(XXX07);
+# <ore:***Cyan>.remove(XXX06);
+# <ore:***Purple>.remove(XXX05);
+# <ore:***Blue>.remove(XXX04);
+# <ore:***Brown>.remove(XXX03);
+# <ore:***Green>.remove(XXX02);
+# <ore:***Red>.remove(XXX01);
+# <ore:***Black>.remove(XXX00);
+// 
+// Add:
+# <ore:***White>.add(XXX00);
+# <ore:***Orange>.add(XXX01);
+# <ore:***Magenta>.add(XXX02);
+# <ore:***LightBlue>.add(XXX03);
+# <ore:***Yellow>.add(XXX04);
+# <ore:***Lime>.add(XXX05);
+# <ore:***Pink>.add(XXX06);
+# <ore:***Gray>.add(XXX07);
+# <ore:***LightGray>.add(XXX08);
+# <ore:***Cyan>.add(XXX09);
+# <ore:***Purple>.add(XXX10);
+# <ore:***Blue>.add(XXX11);
+# <ore:***Brown>.add(XXX12);
+# <ore:***Green>.add(XXX13);
+# <ore:***Red>.add(XXX14);
+# <ore:***Black>.add(XXX15);
