@@ -1,0 +1,74 @@
+// This Script is still being worked on. Consider it in Alpha lol
+// Import Section
+# import minetweaker.api.liquid;
+// 
+// Var/Val Section
+# var lifeEss = <liquid:life\essence>;
+# PCoB = <PneumaticCraft:oilBucket>;
+# fOil = <liquid:oil>;
+# MCBucket = <minecraft:bucket>;
+// 
+// LiquiDict
+# blank lol
+// 
+// Recipes
+# <IC2:itemFluidCell>.withTag({Fluid: {FluidName: "oil", Amount: 1000}}) * 64
+# fOil.addContainer([PCoB, MCBucket, 1000]);
+# furnace.setFuel(fOil, 16000);
+//
+// Liquids List:
+// <liquid:aerotheum> -- Zephyrean Aerotheum
+// <liquid:biodiesel> -- Biodiesel
+// <liquid:biofuel> -- BioFuel
+// <liquid:chocolatemilk> -- Chocolate Milk
+// <liquid:coal> -- Liquifacted Coal
+// <liquid:creosote> -- Creosote Oil
+// <liquid:cryotheum> -- Gelid Cryotheum
+// <liquid:diesel> -- Diesel
+// <liquid:ender> -- Resonant Ender
+// <liquid:etchacid> -- Etching Acid
+// <liquid:ethanol> -- Ethanol
+// <liquid:evilcraftblood> -- Blood
+// <liquid:evilcraftpoison> -- Poison
+// <liquid:fire_water> -- Fire Water
+// <liquid:fuel> -- Gasoline
+// <liquid:glowstone> -- Energized Glowstone
+// <liquid:hootch> -- Hootch
+// <liquid:ic2biogas> -- Biogas
+// <liquid:ic2biomass> -- Biomass
+// <liquid:ic2constructionfoam> -- Construction Foam
+// <liquid:ic2coolant> -- IC2 Coolant
+// <liquid:ic2distilledwater> -- Distilled Water
+// <liquid:ic2hotcoolant> -- IC2 Hot Coolant
+// <liquid:ic2hotwater> -- Hotspring Water
+// <liquid:ic2pahoehoelava> -- Pahoehoe Lava
+// <liquid:ic2steam> -- Steam
+// <liquid:ic2superheatedsteam> -- Superheated Steam
+// <liquid:ic2uumatter> -- UU-Matter
+// <liquid:immibis.liquidxp> -- Liquid XP
+// <liquid:kerosene> -- Kerosene
+// <liquid:lava> -- Lava
+// <liquid:life essence> -- Life Essence
+// <liquid:lpg> -- LPG
+// <liquid:lubricant> -- Lubricant
+// <liquid:mana> -- Primal Mana
+// <liquid:meat> -- Meat
+// <liquid:milk> -- Milk
+// <liquid:mobessence> -- Essence
+// <liquid:mushroomsoup> -- Mushroom Soup
+// <liquid:nutrient_distillation> -- Nutrient Distillation
+// <liquid:oil> -- Oil
+// <liquid:petrotheum> -- Tectonic Petrotheum
+// <liquid:pinkslime> -- Pink Slime
+// <liquid:plantoil> -- Plant Oil
+// <liquid:plastic> -- Liquid Plastic
+// <liquid:pyrotheum> -- Blazing Pyrotheum
+// <liquid:redplasma> -- fluid.redplasma
+// <liquid:redstone> -- Destabilized Redstone
+// <liquid:rocket_fuel> -- Rocket Fuel
+// <liquid:sewage> -- Sewage
+// <liquid:sludge> -- Sludge
+// <liquid:steam> -- Steam
+// <liquid:water> -- Water
+// <liquid:witchwater> -- Witch Water
+// <liquid:xpjuice> -- Liquid XP
