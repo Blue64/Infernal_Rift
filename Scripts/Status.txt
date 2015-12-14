@@ -1,7 +1,7 @@
-I shall begin to update the various files' Release Status as soon as I have finished uploading them all.
+I shall begin to update the various files' Release Status as soon as I can.
 Currently:
   * pretty much every ```.zs``` file can be considered (Beta) as they work, but are all [WIP], and most are just a Template.
   * if it is in ZenScript Format, but is a .txt, then:
     * it is either a Template for any new .zs files
-    * or, it is in (Alpha)
+    * or, it is in (Alpha) {such as "c - fluids.txt"} due to errors and needing debugging/testing.
   * Nothing in this folder is technically considered (Release) yet.
