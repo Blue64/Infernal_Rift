@@ -1,3 +1,5 @@
+MsgBox, Just a heads up, this will be deleted from GitHub after tomorrow, so if you desire to read it over, save a copy of it ;)
+
 GoSub, inc
 InputBox, GM, Moon?, Moon?
 ListLines, On
