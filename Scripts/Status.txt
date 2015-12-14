@@ -1,1 +1,7 @@
 I shall begin to update the various files' Release Status as soon as I have finished uploading them all.
+Currently:
+  * pretty much every ```.zs``` file can be considered (Beta)
+  * if it is in ZenScript Format, but is a .txt, then:
+    * it is either a Template for any new .zs files
+    * or, it is in (Alpha)
+  * Nothing in this folder is technically considered (Release) yet.
