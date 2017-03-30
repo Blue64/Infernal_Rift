@@ -1,7 +1,14 @@
 I shall begin to update the various files' Release Status as soon as I can.
 Currently:
-  * pretty much every ```.zs``` file can be considered (Beta) as they work, but are all [WIP], and most are just a Template.
+  * pretty much every *.zs file can be considered (Beta) as they work, but are all [WIP], and most are just a Template.
   * if it is in ZenScript Format, but is a .txt, then:
     * it is either a Template for any new .zs files
     * or, it is in (Alpha) {such as "c - fluids.txt"} due to errors and needing debugging/testing.
   * Nothing in this folder is technically considered (Release) yet.
+
+Update:
+I have begun working on this again, progress is slow, lots of Mods have been added, most of these files are going to be merged into a select few files (~9 give or take, still compiling and indexing, by hand, semi-automatically).
+
+I shall be clearing out the unused files soon and compiling the ones I am currently using so I can upload them to here some ti,e after that.
+
+The indexed items are going to be grouped by Mod, you can use Ctrl+F to find the Indexed Value (Val) of the specific mods you are trying to remove from the Recipies.
