@@ -1,3 +1,6 @@
+# Infernal Rift
+This **entire** thing is a Work in Progress, currently I still need to update **_ALL_** of the Files, _including_ this ReadMe file.
+
 # MT-ZenScript
 My collection of MineTweaker 3 / ModTweaker 2 ZenScript Files, along with a few I've found that I'll likely integrate later.
 
