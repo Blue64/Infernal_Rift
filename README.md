@@ -1,6 +1,9 @@
 # Infernal Rift
 This **entire** thing is a Work in Progress, currently I still need to update **_ALL_** of the Files, _including_ this ReadMe file.
 
+The Playlist on YouTube is located here:
+* https://www.youtube.com/playlist?list=PLVt4xuErUQB6OIm1Umg-j13GTL8DYfn8g
+
 # MT-ZenScript
 My collection of MineTweaker 3 / ModTweaker 2 ZenScript Files, along with a few I've found that I'll likely integrate later.
 
