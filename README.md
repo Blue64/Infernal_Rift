@@ -4,6 +4,9 @@ This **entire** thing is a Work in Progress, currently I still need to update **
 The Playlist on YouTube is located here:
 * https://www.youtube.com/playlist?list=PLVt4xuErUQB6OIm1Umg-j13GTL8DYfn8g
 
+# Note:
+I have been away from this project for a while due to other tasks and priorities, it is only delayed though, as I fully intend to complete this project. Currently, apart from dealing with IRL issues, I am aslo learning `C#` through the game Space Engineers, which is proving to be rather enjoyable, albeit laggy (10/60 FPS Max)
+
 # MT-ZenScript
 My collection of MineTweaker 3 / ModTweaker 2 ZenScript Files, along with a few I've found that I'll likely integrate later.
 
